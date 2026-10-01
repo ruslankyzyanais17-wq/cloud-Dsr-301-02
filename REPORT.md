@@ -5,7 +5,7 @@
 ---
 
 ### 1. Ссылка на репозиторий
-[https://github.com/ВАШ_ЛОГИН/cloud-team-301-02](https://github.com/ruslankyzyanais17-wq/cloud-Dsr-301-02.git)
+[клик](https://github.com/ruslankyzyanais17-wq/cloud-Dsr-301-02.git)
 
 ### 2. Состав команды и распределение ролей
 * **Студент 1 (Владелец / Owner):** Создание репозитория, настройка доступа, задача #1, проведение Review.
